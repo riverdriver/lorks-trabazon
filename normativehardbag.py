@@ -2,3 +2,6 @@
 
 def fun(x):
   return x + 1
+
+def gun():
+  print "bang"
